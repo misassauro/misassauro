@@ -1,9 +1,5 @@
 System.out.print("Hello, World!"); 👋
 
-- 🔭 Estudante da Escola Senai Manuel Garcia Filho;
-- 🌱 Aprendendo sobre Desenvolvimento de Sistemas;
-- 📫 @_misa.el
-
 <div align="center">
   <img height="150em" src="https://c.tenor.com/gozG0DL2YbcAAAAC/dokk.gif">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zMSLz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
