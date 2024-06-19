@@ -5,11 +5,6 @@ System.out.print("Hello, World!"); 👋
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=misassauro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misassauro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style= margin: 0 auto;" align="center"><br>
-  <img align="center" alt="Misael-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Misael-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafael-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Misael-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Misael-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Misael-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Misael-Icons" height="50" width="800" src="https://skillicons.dev/icons?i=html,css,php,laravel,java,js,react,git">  
+</div>
