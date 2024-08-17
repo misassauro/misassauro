@@ -6,5 +6,5 @@ System.out.print("Hello, World!"); 👋
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misassauro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Misael-Icons" height="50" width="800" src="https://skillicons.dev/icons?i=html,css,php,laravel,java,js,react,git">  
+  <img align="center" alt="Misael-Icons" height="50" width="800" src="https://skillicons.dev/icons?i=html,css,php,laravel,cs,dotnet,java,js,react,git">  
 </div>
